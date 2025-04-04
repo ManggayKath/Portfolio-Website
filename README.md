@@ -1,4 +1,5 @@
 # Portfolio-Website
 
-![Portfolio Dark Mode](images/Portfolio_DarkMode.png)
-![Portfolio Light Mode](images/Portfolio_LightMode.png)
+![Portfolio Dark Mode](Portfolio_DarkMode.png)
+![Portfolio Light Mode](Portfolio_LightMode.png)
+
